@@ -3,12 +3,12 @@
 
 Шахматы на [oxygine](http://oxygine.org/) (Cross-platform 2D C++ game engine)
 
-![](maPong_screenshot.png)
+![](chess-screenshot.png)
 
 
 ## Перед установкой
 
-Возможно вам понадобяться эти библиотеки: [libjpeg-dev],[libsdl2-dev]
+Возможно вам понадобяться эти библиотеки: libjpeg-dev, libsdl2-dev
 
 ```sh
 sudo apt-get install libjpeg-dev
@@ -35,6 +35,6 @@ cd ..
 * #1 Фигуры могут перепрыгивать через друг друга во время хода
 * #2 Время хода чёрных и белых фигур не разделено
 
-## Meta
+=========
 
 [https://github.com/Lazzlo2096](https://github.com/Lazzlo2096)
